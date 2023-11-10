@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MERN E-commerce Website",
+    "imageSrc": "projects/project1.jpg",
+    "description": "This is a web application build during my Bachelors Final year. I used MERN full Stack. It has 12 pages. ",
+    "skills": ["React", "Express", "Node", "Mongo DB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/priya1-0/MERN_E_commerce"
+  },
+  {
+    "title": "Plant Leaf Disease Detection Using CNN",
+    "imageSrc": "projects/project2.png",
+    "description": "This is web application built on Streamlit and python. The tools used were pycharm and google colab",
+    "skills": ["Python", "Streamlit"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/priya1-0/Plant-Leaf-Disease-detection"
+  },
+  {
+    "title": "SBOM Generation Application",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project I build during my paid Internship at Medtronic. I used MERN Full Stack to build this. ",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/priya1-0/SBOM_generation_final/tree/main"
+  }
+]
